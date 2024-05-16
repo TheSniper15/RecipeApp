@@ -1,0 +1,2 @@
+Good Day po sir. For some reason we have to run it po using live server extension po ng vscode.
+If hindi po sya naka live server po hindi po na de detect ang css.
