@@ -8,6 +8,7 @@ body{
     background-image: url("./img/pizza1.png");
     background-size: cover;
     overflow-x: hidden;
+    background-color:#7ABA78;
 }
 
 header{
