@@ -226,17 +226,18 @@ button{
     display: flex;
     justify-content: center;
     padding: 20px;
+    border-radius:20px;
 }
 :root {
-    --bg: rgb(137, 144, 158);
+    --bg: rgb(255 255 255);
     --bg-input: #141419;
 }
 
 
 :root{
-    --bg:rgb(166, 194, 205);;
+    --bg:rgb(255 255 255);;
    
-    --bg-input: #e1e1ed;
+    --bg-input: #959595;
 }
 
 
@@ -244,7 +245,7 @@ button{
 
 .light-mode {
     --bg: linear-gradient(to left, #2a2d30, #080a0c);
-    --bg-input: #fcf9f9;
+    --bg-input: #bc0000;
 }
 
 body {
@@ -309,7 +310,7 @@ body {
     transform: translateX(20px);
 }
 p{
-    color: aliceblue;
+    color: #183248;
 
 }
 

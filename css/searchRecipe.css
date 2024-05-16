@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     text-decoration: none;
+    font-family: "Gill Sans", sans-serif;
 }
 body{
     width: 100%;
@@ -12,16 +13,16 @@ body{
 header{
     width: 100%;
     height:3rem;
-    margin: 1rem 0 0 1rem;
+    background-color: #0A6847;
 }
 img{
-    width: 20px;
-    padding-right: 1rem;
+    width: 10%;
+    padding-right: .5rem;
 }
 header>a{
     display: flex;
     width: 15%;
-    background-color: rgb(148, 201, 255);
+    background-color: #F3CA52;
     padding: 1rem 2rem;
     border-radius: 10px;
 }
@@ -46,19 +47,23 @@ a{
 }
 #ingredientInput{
     padding: 10px;
-    width: 300px;
+    width: 90%;
+    border-radius:20px;
+    border:none;
 }
 
 .recipe{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    letter-spacing:3px;
+    margin-bottom:10px;
 }
 
 .recipe>a{
     text-decoration: none;
-    background-color: #333;
-    color: #ccc;
+    background-color: #F6E9B2;
+    color: black;
     padding: 0.8rem;
     margin-top: auto;
     width: 100px;
@@ -68,7 +73,7 @@ a{
 
 button{
     width: 150px;
-    padding: 0.7rem 1rem;
+    padding: 0.5rem 1rem;
     background-color: #d3a716;
     border: none;
     outline: none;
@@ -82,11 +87,14 @@ button{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color:#7ABA78;
 }
 .box{
-    padding: 20px;
-    width: 50%;
-    background-color: rgba(152, 221, 237, 0.71);
-    border-radius: 2rem;
+    margin-top:4rem;
+    padding: 30px;
+    width: 60%;
+    background-color: #0A6847;
+    color:white;
+    border-radius: 40px;
 }
 
