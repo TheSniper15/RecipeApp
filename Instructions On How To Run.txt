@@ -1,2 +1,4 @@
-Good Day po sir. For some reason we have to run it po using live server extension po ng vscode.
-If hindi po sya naka live server po hindi po na de detect ang css.
+Good Day po sir. 
+If for some reason po hindi po kita ang design.
+Paki run nalang po sya using live server extension po ng VSCode.
+Thank You po :)
